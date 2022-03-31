@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Hey this is a react ToDo app for understanding Context and useState hook
+for finished project visit https://h-bhatti_react-to-do-app.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
